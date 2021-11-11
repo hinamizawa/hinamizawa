@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hinamizawa
-- 👀 I’m interested in math
+- 👀 I’m interested in math. 
+- I'm currently learning Mathematica, Prolog and Clojure.
 
 
 <!---
