@@ -2,7 +2,7 @@
 - 👀 I’m interested in math. 
 - I'm currently learning Mathematica, Prolog and Clojure.
 
-![Project Euler](http://url/to/img.png](https://projecteuler.net/profile/sailaphair.png)
+![Project Euler](https://projecteuler.net/profile/sailaphair.png)
 
 
 
