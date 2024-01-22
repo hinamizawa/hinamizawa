@@ -3,7 +3,7 @@
 - I'm currently learning Mathematica, Prolog and Clojure.
 
 
-<img align="right" src="https://projecteuler.net/profile/sailaphair.png">
+<img align="right" src="https://projecteuler.net/profile/junyu.nue.png">
 
 
 
