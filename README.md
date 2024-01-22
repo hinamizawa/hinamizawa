@@ -2,6 +2,9 @@
 - 👀 I’m interested in math. 
 - I'm currently learning Mathematica, Prolog and Clojure.
 
+![Project Euler](http://url/to/img.png](https://projecteuler.net/profile/sailaphair.png)
+
+
 
 <!---
 hinamizawa/hinamizawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
