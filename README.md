@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hinamizawa
-- 👀 I’m interested in math. 
-- I'm currently learning Mathematica, Prolog and Clojure.
+- 👋 Hi, I am @hinamizawa
+- 👀 I am interested in mathematics and my research area concerns about the left orderability of 3-manifold groups. 
+- I am currently learning Mathematica.
 
 
 <img align="right" src="https://projecteuler.net/profile/junyu.nue.png">
